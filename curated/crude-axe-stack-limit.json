@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "entity": "e-045871a35c62b6aa04edaddb21311d64",
+  "title": "Maximum stack configuration",
+  "since": "build-25548639-0bf00fe33781",
+  "scope": "selected-data",
+  "text": ["Configured maximum stack size: ", {"fact": "stack"}, "."],
+  "facts": {"stack": {"path": "/MaxStack", "type": "integer", "min": 1}},
+  "code": []
+}
