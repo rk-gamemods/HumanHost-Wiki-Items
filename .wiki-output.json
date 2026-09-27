@@ -86,6 +86,7 @@
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
+    "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
     "site/runtime/9fd88db8c98bf81a1e52b7104dba7f796715b783ec6f2e3311420d3ae9d0d7ad/reader.js",
@@ -97,51 +98,51 @@
   "files": {
     "README.md": {
       "bytes": 524,
-      "sha256": "c9e3408840a4132bf4ec5d6484819be929427475a1dfa373e5bf65e9008411b2"
+      "sha256": "619b98f0a33a9bd9466eabe2d1647dc391b6d7934417b35f80ad0f2b62a21587"
     },
     "reference/index.md": {
       "bytes": 511,
-      "sha256": "66f1f99b4baa386704b0daaac1adc8e983ad90163b4d1ccdbbcfaba60d83960a"
+      "sha256": "83ff2006719ef3757f309e605c21797fc5828ee9b93e688a02df78c99adf5ff5"
     },
     "reference/item/0001.md": {
       "bytes": 49739,
-      "sha256": "94c3ef43cda1dae165215768809d51ff03bd732c44bb3387a278cf90f7d21726"
+      "sha256": "2e945d0b474623f6667ed1421b434235efdea614000f3f649257d54cf62009af"
     },
     "reference/item/0002.md": {
       "bytes": 49182,
-      "sha256": "958a3635e47ead33461205d3a1690f0f786ae01ee46b50e904deb79f18c6cd32"
+      "sha256": "0e9f90bc6bdbb528fa9ab6b34391d349fd85eec8615e0baa85b902193d503da8"
     },
     "reference/item/0003.md": {
       "bytes": 49475,
-      "sha256": "e485e4f616aa41fa3208c67bfc5f85e266ce45d9190a74c943e843b195ce5e78"
+      "sha256": "73c4f5d7bf1089a667b4f43e6841c10babee782f10edcff4fdd22b2246e82dbb"
     },
     "reference/item/0004.md": {
       "bytes": 49408,
-      "sha256": "c00e2bae5f4d9df78377503da4a20af3a8a8105283b229777d3e75feb176b7a5"
+      "sha256": "2a5f1510aef8e28a9545619a4ec91b98bfe72c6b5e0bdaf846351755b265b49e"
     },
     "reference/item/0005.md": {
       "bytes": 49346,
-      "sha256": "64e5afdc3e009ef912f34dc558b95a5e43c4c177df83f11061e33801b696d633"
+      "sha256": "9200c1902404b01617f08ed8635596fb043f0bd6e441435717656d22dc2ab3a3"
     },
     "reference/item/0006.md": {
       "bytes": 49267,
-      "sha256": "d0c3b0fa6221f86c10f88efc474e75c9c432801f1f3e351cbd2a1eb1562180f4"
+      "sha256": "8a960a852426311140d912d3dde7ea5d0629e1453a116cc736973d779455385d"
     },
     "reference/item/0007.md": {
       "bytes": 49443,
-      "sha256": "55851f30e5da51182dfc4fc48fd285f12dc6039b76f846220a02084a7c748b82"
+      "sha256": "a172bb866dd5165a7acb012e3a5a82e4b18e850780734656e09542c1f37f5c68"
     },
     "reference/item/0008.md": {
       "bytes": 49571,
-      "sha256": "adead385443258fad4886bbf760f28649ff69d888f6a13089e0e029b31f4a937"
+      "sha256": "0a5d0aaf28480bf6129ade73635645de80775533398896132f070ef8acac212b"
     },
     "reference/item/0009.md": {
       "bytes": 50009,
-      "sha256": "a3a55dcb6bc6d2c2686c5ee9d0f4724cd93aed3a8483b3b2eaf7b0bc07cdb049"
+      "sha256": "e900195b2f27eb39706ecd540d6e28437ef271ce845fd71ce371b5a74405fe51"
     },
     "reference/item/0010.md": {
       "bytes": 21864,
-      "sha256": "f08b532bc73baef764d378e904b87996333beaeb172d1506e558be81fbb332e5"
+      "sha256": "fb46a0f43359765585dcbbae81527a3be3bccf1ee6b4d5e927605d070d348f5c"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -501,7 +502,7 @@
     },
     "site/reader.json": {
       "bytes": 5065,
-      "sha256": "af0e7f8d7f5f74171692a9e47522f40ef7c93fd0f55ee1f2ef16de2cb6fe8205"
+      "sha256": "f822a18d773546bba0e84009dffdb6c35397894b00b8bebd40c4bc7a8f607cf3"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4992,
@@ -514,6 +515,10 @@
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json": {
       "bytes": 5040,
       "sha256": "7cf6ec9ab3ec53e9dd8a2201300747861f90a4ed2e61ba943479b87763c9d616"
+    },
+    "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
+      "bytes": 5065,
+      "sha256": "f822a18d773546bba0e84009dffdb6c35397894b00b8bebd40c4bc7a8f607cf3"
     },
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json": {
       "bytes": 5065,
@@ -545,7 +550,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c",
+  "release_id": "84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb",
   "repository_id": "items-equipment",
   "schema_version": 1
 }
