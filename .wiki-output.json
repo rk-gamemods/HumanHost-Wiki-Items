@@ -2,51 +2,51 @@
   "files": {
     "README.md": {
       "bytes": 524,
-      "sha256": "f81a463cc2503e52b66fed2cd61ba140464a113dc05919762778dbfe44fe82c9"
+      "sha256": "5976f7f51eaca35d22267ff7d942612eab1403f3aad03b8c3a1e41cc3ebaa4a0"
     },
     "reference/index.md": {
       "bytes": 511,
-      "sha256": "75a24d49696655e60267119d2aea00bf7061e2e018ce6d00b117fd9efa7efd49"
+      "sha256": "91b28465911c5b8da1eba6887d62a7027a473fca2f8149b63c59c30ed80a5b14"
     },
     "reference/item/0001.md": {
       "bytes": 49739,
-      "sha256": "638089827ccfb366610a45ffc3ad40eecc29f359e5b1116bba5063229aa7c441"
+      "sha256": "34b8acb6928ff48cdca2f7da088aaeb4e8101b672037e1b5bcfb1bc9d9ebe4ac"
     },
     "reference/item/0002.md": {
       "bytes": 49182,
-      "sha256": "b923264dd33c28b4c70a429b23808a1d9079ecf07bbac470b7005a1bc280907c"
+      "sha256": "b41e30ad3f1d0122f96de7442084959547e742a34ab5813806748f4de646a867"
     },
     "reference/item/0003.md": {
       "bytes": 49475,
-      "sha256": "5476099c80c6e18f84ebb8e3b20196ea194619d0295f45de6c0cf745f8c94a5c"
+      "sha256": "ca865b309bf7b78d9b5681a4ecf29d8cb62df3518e44fa5e6ac87ba8910a4460"
     },
     "reference/item/0004.md": {
       "bytes": 49408,
-      "sha256": "006d6c6d09e068a73ecd4912aa61645f8dee40b5846ee77938359541aa32c5a9"
+      "sha256": "69d7b232e6e706ebd97cab82f8c41cc2c5ac0e719f2114537ba43562c83321ab"
     },
     "reference/item/0005.md": {
       "bytes": 49346,
-      "sha256": "6e2c287a62c35a78ca912428e7e37a63fe8c4d8bb24d8add2021e7256b9ca943"
+      "sha256": "931ab6eefb780f36919820db50be456c9675ec5dc672d78e5f0568742394fae4"
     },
     "reference/item/0006.md": {
       "bytes": 49267,
-      "sha256": "6a4a7ac8cec8e760dcee5cb3c24882214c8b0fe757f3621678f925fb943e486d"
+      "sha256": "ffc384cebc4d375deacf8b8a79e4fe7e79f711558f8b2d03d2df2c58827fef80"
     },
     "reference/item/0007.md": {
       "bytes": 49443,
-      "sha256": "30a230516ec2716dd9d7271189acbcc7e6b0c53dc2db1941ad6a0f61465949df"
+      "sha256": "14159479736ea803a8ce614a927131b13de414aa3c5772a50978cd53afc8e59d"
     },
     "reference/item/0008.md": {
       "bytes": 49571,
-      "sha256": "bfc2ccf0ac822f1d2d159b0e68ab8a7bc2f4b4247a2bf27611f1aba4c17f606d"
+      "sha256": "c33b9f122a1781f62f85f7d1a93f91051481d9e010af16c29afaf95b90350b8b"
     },
     "reference/item/0009.md": {
       "bytes": 50009,
-      "sha256": "8dd8467c9cf0bfae248071c36b7054445873f4816079defd3ee6f4d464dbb616"
+      "sha256": "ec806ffe3785f77214db73339728bb69adaf1c9da9dc240a1a315dd8436d0c10"
     },
     "reference/item/0010.md": {
       "bytes": 21864,
-      "sha256": "e620041b5f67ed3cc90104d5f1a609848c7aa83206e722fd9afaba00a9eef8d8"
+      "sha256": "f25fdb666c122f930fd2cd1acda307b509feb333c2746e6d3d65354960d6f66a"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -401,16 +401,20 @@
       "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
     },
     "site/reader.js": {
-      "bytes": 1371,
-      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+      "bytes": 1966,
+      "sha256": "60af12c1c57d601902c0960bce6ea77136ffe396136988797b1457c057deb782"
     },
     "site/reader.json": {
       "bytes": 4992,
-      "sha256": "aaefe197d52d9cda5ed5322c398757c69b615cd850f7ccdf7abfc26caee7e10d"
+      "sha256": "64f36160779dc1120a887aaf25a46925593865a41830cbc1d90ed20e14dafbad"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4992,
       "sha256": "aaefe197d52d9cda5ed5322c398757c69b615cd850f7ccdf7abfc26caee7e10d"
+    },
+    "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json": {
+      "bytes": 4992,
+      "sha256": "64f36160779dc1120a887aaf25a46925593865a41830cbc1d90ed20e14dafbad"
     },
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
       "bytes": 4358,
@@ -422,7 +426,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "release_id": "120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f",
   "repository_id": "items-equipment",
   "schema_version": 1
 }
