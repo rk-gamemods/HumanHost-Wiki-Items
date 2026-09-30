@@ -1,0 +1,1 @@
+{"ae4ad376a6813fd2866aecc34ef2ca94f937c5f54428de6044560e78635a7a2a":{"eyebrow":["Food"],"hidden":["/_Can_Stack","/_DuraCostPerAttack","/_noiseDistance"],"missing_game_text":[],"notes":[],"stats":[{"display":"+2","field":"/_Tags/0","label":"Food","order":90},{"display":"50","field":"/MaxStack","label":"Stack size","order":110}],"technical":["/_BuySellValue","/_SlotType","/_Tag"]}}
