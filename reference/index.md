@@ -1,9 +1,10 @@
 # Items and equipment reference
 
-Release: `02636eccacd2dd1727a3f3b6be5af8eb9192a0626d54387120364fc5398e4031`.
+Release: `0985d42c2afa1aa3f5e12204f8e7ddb06a1b8696aa2d8a0b95b1343676c21700`.
 
 Selected extracted facts. Runtime gameplay verification is unknown unless a scoped check is shown.
 
+- [changes.md](changes.md)
 - [equipment/0001.md](equipment/0001.md)
 - [equipment/0002.md](equipment/0002.md)
 - [equipment/0003.md](equipment/0003.md)
