@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-10-05T07:23:45+00:00",
+  "default_status": "missing",
+  "entries": [
+    {
+      "bytes": 6657,
+      "count": 16,
+      "first": "build-25548639-0bf00fe33781/e-4ce4717067f47a17059c62c699817484",
+      "last": "build-25712240-d7c49874ae12/e-81ddb7a590c7878c57624a67545f3c3d",
+      "path": "data/c631fdd05103e496c1396eb8ddfd9bd00b255895b884fa1197d0500ba90d3150.json",
+      "sha256": "c631fdd05103e496c1396eb8ddfd9bd00b255895b884fa1197d0500ba90d3150"
+    }
+  ],
+  "kinds": [
+    "equipment",
+    "item"
+  ],
+  "observation_id": "507e47bf01df30e9390c289fdd9fb86035f8480f446a510708370c5db53c1a0b",
+  "schema_version": 1,
+  "topics": [
+    {
+      "checked_at": "2026-10-05T07:23:45+00:00",
+      "destination": "Human Host:Content/Game Content/Weapons",
+      "destination_revision": 318,
+      "reason": "literal-prose",
+      "revision": 318,
+      "status": "populated",
+      "title": "Human Host:Content/Game Content/Weapons",
+      "url": "https://wiki.nerdwerx.io/index.php?title=Human+Host%3AContent%2FGame+Content%2FWeapons&oldid=318"
+    },
+    {
+      "checked_at": "2026-10-05T07:23:45+00:00",
+      "destination": "Human Host:Content/Game Content/Armors",
+      "destination_revision": 569,
+      "reason": "literal-prose",
+      "revision": 569,
+      "status": "populated",
+      "title": "Human Host:Content/Game Content/Armors",
+      "url": "https://wiki.nerdwerx.io/index.php?title=Human+Host%3AContent%2FGame+Content%2FArmors&oldid=569"
+    }
+  ]
+}
